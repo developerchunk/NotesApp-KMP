@@ -11,4 +11,6 @@ This is a Kotlin Multiplatform project targeting Android, iOS.
   you need this entry point for your iOS app. This is also where you should add SwiftUI code for your project.
 
 
-Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)
+
+Special Thanks to @[Setvdza-san](https://github.com/stevdza-san) to make a video on SQL Delight and View Model in KMP: https://youtu.be/1TLk36FdmMA?si=B1CXcXIcw0R1oFUs
